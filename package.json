@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/flbaue/express_test#readme",
   "dependencies": {
-    "express": "^4.13.2"
+    "express": "^4.13.2",
+    "jade": "^1.11.0"
   }
 }
